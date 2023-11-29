@@ -11,9 +11,7 @@ Este proyecto se centra en analizar datos relacionados con enfermedades cardíac
     - */Evaluación*: Evaluación de modelos y métricas.
 - **/Imágenes**: Gráficos y visualizaciones generados.
 - **Documentación**: Informes, análisis exploratorio, descripción de modelos, etc.
-- **LICENSE**: Términos de la licencia del proyecto.
-- **.gitignore**: Archivo para excluir archivos o directorios de seguimiento en Git.
-- **requirements.txt**: Lista de dependencias del entorno del proyecto.
+- **Video**: Términos de la licencia del proyecto.
 
 ## Instrucciones de Uso
 
@@ -30,9 +28,5 @@ Este proyecto se centra en analizar datos relacionados con enfermedades cardíac
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Siéntete libre de hacer fork de este repositorio y enviar pull requests con mejoras, correcciones o nuevas funcionalidades.
 
-## Licencia
-Este proyecto está bajo la licencia [MIT License](LICENSE).
-
-
-
+## Video
 https://drive.google.com/file/d/1K4YFH2EjuNINJAMvYu8Q5AXP1qAWcPmV/view?usp=sharing
