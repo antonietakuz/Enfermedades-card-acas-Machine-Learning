@@ -4,12 +4,12 @@ Este proyecto se centra en analizar datos relacionados con enfermedades cardíac
 
 ## Contenido del Repositorio
 
-- **/Datos**: Contiene conjuntos de datos utilizados en el proyecto.
-- **/Código**: Scripts y archivos de código fuente.
-    - */Preprocesamiento*: Scripts para la limpieza y preparación de datos.
-    - */Modelado*: Implementación de modelos de aprendizaje automático.
-    - */Evaluación*: Evaluación de modelos y métricas.
-- **/Imágenes**: Gráficos y visualizaciones generados.
+- **Datos**: Contiene conjuntos de datos utilizados en el proyecto.
+- **Código**: Scripts y archivos de código fuente.
+    - *Preprocesamiento*: limpieza y preparación de datos.
+    - *Modelado*: Implementación de modelos de aprendizaje automático.
+    - *Evaluación*: Evaluación de modelos y métricas.
+- **Imágenes**: Gráficos y visualizaciones generados.
 - **Documentación**: Informes, análisis exploratorio, descripción de modelos, etc.
 - **Video**: Términos de la licencia del proyecto.
 
@@ -21,9 +21,9 @@ Este proyecto se centra en analizar datos relacionados con enfermedades cardíac
 3. Instalar las dependencias utilizando `pip install -r requirements.txt`.
 
 ### Ejecución
-- **Preprocesamiento**: Ejecutar los scripts en `/Código/Preprocesamiento` en orden.
-- **Modelado**: Utilizar los scripts en `/Código/Modelado` para entrenar y ajustar modelos.
-- **Evaluación**: Ejecutar scripts en `/Código/Evaluación` para evaluar modelos y generar métricas.
+- **Preprocesamiento**: estudiar conjunto de datos
+- **Modelado**:  para entrenar y ajustar modelos.
+- **Evaluación**:  para evaluar modelos y generar métricas.
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Siéntete libre de hacer fork de este repositorio y enviar pull requests con mejoras, correcciones o nuevas funcionalidades.
